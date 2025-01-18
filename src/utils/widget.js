@@ -2,7 +2,7 @@
 /* eslint-disable no-use-before-define */
 
 /**
- * @param {Object} - Tawk widget required properties 
+ * @param {Object} - Tawk widget required properties https://tawk.to/chat/61c89ef380b2296cfdd3dbee/1ig5ooitr
  */
 const loadScript = ({propertyId = '', widgetId = '', embedId = '', basePath = 'tawk.to', autoStart = true}) => {
 	if (embedId.length) {
